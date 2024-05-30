@@ -1,8 +1,14 @@
 <div align="center"><h1>Books Store</h1>
+This project is a responsive website template designed for a fictional book-related website. It uses Bootstrap for styling and Font Awesome for icons, ensuring a modern and user-friendly interface. The website includes a navigation bar with sections for Home, Course, Price, Pages, Facts, and About. It features multiple content sections, such as featured content, statistics, app downloads for different platforms, customer testimonials, and a newsletter signup form. The footer provides site information and links to social media platforms for further engagement.
 
 
 
 
+
+
+
+
+#
 <img src = "https://raw.githubusercontent.com/vinita2003/Books/master/pg1.png" length = 330 width = 440>
 <img src = "https://raw.githubusercontent.com/vinita2003/Books/master/pg2.png" length = 330 width = 440>
 <img src = "https://raw.githubusercontent.com/vinita2003/Books/master/pg3.png" length = 330 width = 440>
